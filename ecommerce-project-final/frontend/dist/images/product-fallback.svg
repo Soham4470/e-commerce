@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="700" viewBox="0 0 600 700" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="50" y1="35" x2="550" y2="670" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E9EDE5"/>
+      <stop offset="1" stop-color="#D6DDD2"/>
+    </linearGradient>
+    <linearGradient id="box" x1="165" y1="185" x2="432" y2="510" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBFAF5"/>
+      <stop offset="1" stop-color="#E7E4D9"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h600v700H0z"/>
+  <circle cx="448" cy="162" r="82" fill="#A3B29A" fill-opacity=".2"/>
+  <circle cx="118" cy="527" r="116" fill="#B88962" fill-opacity=".13"/>
+  <rect x="144" y="196" width="312" height="307" rx="22" fill="url(#box)"/>
+  <path d="M225 310h150v110H225z" fill="#536B54" fill-opacity=".16"/>
+  <circle cx="300" cy="340" r="44" fill="#A17B52" fill-opacity=".78"/>
+  <path d="M221 417c45-46 112-46 158 0" stroke="#354C3C" stroke-width="12" stroke-linecap="round"/>
+  <path d="M84 588h432" stroke="#354C3C" stroke-opacity=".18" stroke-width="2"/>
+  <text x="300" y="635" fill="#354C3C" font-family="Georgia,serif" font-size="24" text-anchor="middle">A thoughtful find</text>
+</svg>
